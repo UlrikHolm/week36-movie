@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/UlrikHolm/rest-jpa-devops-startcode.svg?branch=master)](https://travis-ci.org/UlrikHolm/rest-jpa-devops-startcode)
+[![Build Status](https://travis-ci.org/UlrikHolm/week36-movie.svg?branch=master)](https://travis-ci.org/UlrikHolm/week36-movie)
 
 *This project is meant as start code for projects and exercises given in Flow-1+2 at http://cphbusiness.dk in the Study Program "AP degree in Computer Science"*
 
